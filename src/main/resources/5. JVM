@@ -1,0 +1,7 @@
+1. trzy etapy zycia aplikacji (interpretacja, JIT[1,2,3,4])
+2. JIT - jak dziala jakie sa mozliwosci kompilacji, ile zajmuje kodu JVM
+3. Garbage Collector - co robic jak aplikacja jest blokowana przez GC (off-heap, redis, memcache)
+4. jak dzialaja operacje I/O
+5. synchronized - czesto stosowany w phoenix ale czy dobry? jakich innych narzedzi uzyc.
+6. Refleksja, ByteBuffer i Unsafe.allocateMemory
+7. programy dostarczone razem z jdk (javap -v, jps -v, jar -tf)

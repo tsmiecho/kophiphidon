@@ -1,0 +1,9 @@
+1. ogolnie co to jest (pewnie wszyscy wiedza ale to jako wstep)
+2. przyklad iterowania po kolekcji (DataVolumeManager.getSpeedOnOptions)
+3. sortowanie (FixedlineOptionsManager.sortOptions)
+4. transformacja obiektow (DataVolumeManager.getSpeedOnOptions)
+5. czy monady sa dostepne w guavie? (optional, flatMap)
+6. czy za pomoca guavy mozna mozna operacje wykonywac wspolbieznie jak na strumieniu z javy8?
+7. grupowanie elementow (tutaj przyklad z multimap - ValidationUtils.mapByPath)
+8. cachowanie (Marcin moze powiedziec cos o cachu guavowym), ogolnie mozna wspomniec o LinkedHashMap)
+9. porownac z apachecommons

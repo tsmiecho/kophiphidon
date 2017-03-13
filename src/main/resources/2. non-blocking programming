@@ -1,0 +1,14 @@
+1. Ogolnie o co chodzi
+2. Gdzie w phoenix powinno byc to uzyte
+3. Przyklady wywolan asynchronicznych ze starych wersji javy.
+4. Co to jest CompletableFuture - podstawowe informacje na temat kompozycji.
+5. Jak budowac architekture aby wykorzystac potencjal
+6. dlaczego odchodzimy od JDBC
+7. czy kazdy kod mozemy wykonywac wielowatkowo
+8. krotko o Netty, MongoDB, Cassandrze, RxJava, (loba moze dodac cos o node.js)
+9. niezmiennosc obiektow, dlaczego, jakie sa plusy i minusy podejscia
+10. wywolania rownolegle na strumieniach (byc moze bedzie potrzebny wstep co to jest strumien)
+11. budowanie aplikacji w oparciu o mikrouslugi
+12. gotowe biblioteki do tego podejscia (langom, ratpack) - ile razy wydajniejsza staje sie nasza aplikacja
+13. porownac CompletableFuture z ListenableFuture z guavy
+?14? java.slang
